@@ -7,7 +7,6 @@ const numberOfVowels = function(data) {
   return vowelCount
 };
 
-
 console.log(numberOfVowels("orange"));
 console.log(numberOfVowels("lighthouse labs"));
 console.log(numberOfVowels("aeiou"));
